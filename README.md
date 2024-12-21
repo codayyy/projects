@@ -12,6 +12,8 @@ As I gain more knowledge and experience, I plan to revisit these cases/projects/
 
 ## Finance
 
+Academic:
+
 1. [Financial Ratios, Proforma, Working Capital Management (BA 141; n/a)](financial_ratios_proforma_working_capital_management.md)
 
 2. [Capital Budgeting in Uncertain Times (BA 142; 3.00)](capital_budgeting_in_uncertain_times.md)
@@ -30,6 +32,8 @@ As I gain more knowledge and experience, I plan to revisit these cases/projects/
 
 ## Human Resoruces
 
+Academic:
+
 1. [Tony Hseich at Zappos (BA 151; 1.00)](tony_hseich_at_zappos.md)
 
 2. [Ricardo Semler Leadership (BA 151; 1.00)](ricardo_semler_leadership.md)
@@ -37,6 +41,8 @@ As I gain more knowledge and experience, I plan to revisit these cases/projects/
 3. [Employee Compensation (BA 152; n/a)](employee_compensation.md)
 
 ## Information Systems
+
+Academic:
 
 1. [Transsion Holdings: Leveraging Disruption in Emerging Markets (BA 180.1; n/a)](transsion_holdings_leveraging_disruption_in_emerging_markets.md)
 
