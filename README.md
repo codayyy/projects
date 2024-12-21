@@ -1,3 +1,9 @@
+<!--
+TODO:
+- remove subject and grade;
+- fix title; give it more umph and clearer message (e.g., what about financial ratio, proform, wcm do you want to show)
+-->
+
 # Academic and Extra Curricular Projects
 
 This is a collection of cases, projects, presentations, etc. I did for college in the Univerity of the Philippines - Diliman. Each item is documented with a general overview of the case/project/presentation/etc. as well as insights gained and future applications.
