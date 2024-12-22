@@ -1,6 +1,5 @@
 <!--
 TODO:
-- remove subject and grade;
 - fix title; give it more umph and clearer message (e.g., what about financial ratio, proform, wcm do you want to show)
 -->
 
